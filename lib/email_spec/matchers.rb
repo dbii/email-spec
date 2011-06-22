@@ -1,3 +1,6 @@
+require 'spec/expectations'
+require 'spec/rails'
+
 module EmailSpec
   module Matchers
     class ReplyTo
